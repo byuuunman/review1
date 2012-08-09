@@ -1,0 +1,24 @@
+ public class person {
+ 
+ public class uji
+
+ string na = 名 
+
+public static void(string args[])
+ getfirstname {}
+  return firstname
+  getlastname {}
+  return lastname
+  setlastname
+
+public static void(string args[])
+  showname 
+
+
+  int firstname = 1 ; int lastneme = 1;
+  System.out.println(firstname);
+  System.out.println(lastneme);
+
+  System.out.println("渡辺 高志 ");
+  System.out.println("和田 充史 ");
+  
